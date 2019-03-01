@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("hello Github")
+        print("first commit")
         // Do any additional setup after loading the view, typically from a nib.
         resultLabel.isHidden = true
     }
